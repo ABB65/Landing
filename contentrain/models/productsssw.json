@@ -1,0 +1,11 @@
+[
+  {
+    "name": "ttertew",
+    "fieldId": "ttertew",
+    "modelId": "productsssw",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  }
+]
