@@ -16,5 +16,18 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "title",
+    "fieldId": "title",
+    "modelId": "productsssw",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string"
   }
 ]
